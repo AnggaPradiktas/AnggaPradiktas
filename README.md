@@ -8,8 +8,14 @@ I am currently exploring and learning about emerging tech stacks in data enginee
 
 
 😄 Some fun facts about me: 
-  ✍️ I started my professional career as a content writer for agency
-  👨‍🎓 I studied chemical engineering when I was in college
+  - ✍️ I started my professional career as a content writer for agency
+  - 👨‍🎓 I studied chemical engineering when I was in college
+
+
+You can reach me at:
+  - 📧 anggapradiktas@gmail.com
+  - 🔗 https://www.linkedin.com/in/anggapradiktas/
+  - 🔗 https://github.com/AnggaPradiktas
 <!--
 **AnggaPradiktas/AnggaPradiktas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
