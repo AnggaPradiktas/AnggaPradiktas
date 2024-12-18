@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Angga
 
-I am currently working as a data engineer at Philip Morris International / HM Sampoerna, focusing on batch and streaming pipeline on cloud infrastructures. I am working closely with tech & business team, simplifying access to data. With data warehousing, ETL, maintaining and creating data platform as my forte. Mainly code in Python and SQL, and learning to understand Java, Scala & Javascript.
+I am currently working as a Solutions Architect at AWS.
 
-Prior to Philip Morris International, I worked in several startups such as Pahamify, Tunaiku and Halodoc as a data engineer. 
+Prior to AWS, I worked in several companies such as Philip Morris International, Pahamify, Tunaiku and Halodoc as a data engineer. 
 
 I am currently exploring and learning about emerging tech stacks in data engineering such as dbt, great expectations, nosql, and trying to getting hands-on with Java, Javascript, machine learning and its statistical concept.
 
